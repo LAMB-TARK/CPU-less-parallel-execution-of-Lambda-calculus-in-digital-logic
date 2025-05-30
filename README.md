@@ -18,3 +18,5 @@ Once you have opened LambdaCalculus.circ select the left most RAM component high
 In the Hex Editor select Open and open ExampleExecution.txt. Alternativley you may wish to enter your own expression which you may do by opening a different .txt document or manually changing memory locations wihtin the hex editor.
 
 ![ThirdStep](https://github.com/user-attachments/assets/d725b99c-3e86-4177-8a2d-1550e4e366ea)
+
+![FourthStep](https://github.com/user-attachments/assets/d8ecc54a-0106-448d-bc97-6753911c87fd)
