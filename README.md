@@ -22,3 +22,7 @@ In the Hex Editor select Open and open ExampleExecution.txt. Alternativley you m
 Finally select Simulate and ensure Simulation Enable is ticked. Then either begin simulation by pressing Ctrl+T to manually trigger a clock tick or tick the box next to Ticks Enabled to cause a clock pulse every so many Hz definable in the tick frequency pop out menu.
 
 ![FourthStep](https://github.com/user-attachments/assets/d8ecc54a-0106-448d-bc97-6753911c87fd)
+
+After the simulation has been complete the newley reduced expression can be found in the rightmost RAM component.
+
+![FithStep](https://github.com/user-attachments/assets/cced908e-b3db-438a-83c9-96bcb4661838)
