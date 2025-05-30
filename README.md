@@ -39,3 +39,8 @@ Each RAM location represents a singular node as a 12 bit binary value. The 11th 
 Finally the memory address of the 12 bit binary value in each RAM component represents the unique node ID of the node that should contain these values. Note the first node in any tree must be stored in the root node (Node with Unique Node ID == 0) and you will be unable to edit or read from nodes disconnected from the tree structure.
 
 As an example if we want our tree to be a single name expression in node 0 with Child Left and Right equal to F (15) our RAM component should contain the 12 bit binary value 1FF in memory location 0.
+
+The example execution stored in ExampleExecution.txt represents the tree detailed in the PACT sumbission paper sharing this Github's name. 
+
+![Initial Graph](https://github.com/user-attachments/assets/f2c699fb-3771-4557-b9e8-3d307fa112dd)
+
