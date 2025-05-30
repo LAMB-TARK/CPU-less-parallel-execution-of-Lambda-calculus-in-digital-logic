@@ -5,7 +5,7 @@ his repository contains a demonstrational implementation of CPU-less parralel ex
 2. LambdaCalculus.circ
 3. ExampleExecution.txt
 
-This README document will show the steps required to simulate and example execution and read it's output.
+This README document will show the steps required to simulate an example execution and read it's output.
 # How To Load And Execute
 First open logisim-evolution.jar. In the top left of the application select File --> Open and find and select the LambdaCalculus.circ file downloaded from this github
 
