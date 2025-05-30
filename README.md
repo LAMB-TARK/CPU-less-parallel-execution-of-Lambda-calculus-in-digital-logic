@@ -19,4 +19,6 @@ In the Hex Editor select Open and open ExampleExecution.txt. Alternativley you m
 
 ![ThirdStep](https://github.com/user-attachments/assets/d725b99c-3e86-4177-8a2d-1550e4e366ea)
 
+Finally select Simulate and ensure Simulation Enable is ticked. Then either begin simulation by pressing Ctrl+T to manually trigger a clock tick or tick the box next to Ticks Enabled to cause a clock pulse every so many Hz definable in the tick frequency pop out menu.
+
 ![FourthStep](https://github.com/user-attachments/assets/d8ecc54a-0106-448d-bc97-6753911c87fd)
