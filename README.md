@@ -50,5 +50,6 @@ Again here is the output of example execution again mimicing the tree detailed i
 ![Final Graph](https://github.com/user-attachments/assets/a8396cf0-57b4-464f-9f7f-62659d74df48)
 
 # Reading Node Internal Values
+Certain LED's, Output Wires and Mmemory Components have been included to allow you to see the graph changin during execution.
 
-
+![LEDArrangment](https://github.com/user-attachments/assets/ea759f44-4182-49cc-b0e9-a759fdb2e311)
