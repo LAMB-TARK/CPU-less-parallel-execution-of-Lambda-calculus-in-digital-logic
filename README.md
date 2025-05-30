@@ -19,7 +19,7 @@ In the Hex Editor select Open and open ExampleExecution.txt. Alternativley you m
 
 ![ThirdStep](https://github.com/user-attachments/assets/d725b99c-3e86-4177-8a2d-1550e4e366ea)
 
-Finally select Simulate and ensure Simulation Enable is ticked. Then either begin simulation by pressing Ctrl+T to manually trigger a clock tick or tick the box next to Ticks Enabled to cause a clock pulse every so many Hz definable in the tick frequency pop out menu.
+Finally select Simulate and ensure Simulation Enable is ticked. Then either begin simulation by pressing Ctrl+T to manually trigger a clock tick or tick the box next to Ticks Enabled to cause a clock pulse every so many Hz definable in the tick frequency pop out menu. (Note higher frequencies may cause simulation errors depending on the power of your device)
 
 ![FourthStep](https://github.com/user-attachments/assets/d8ecc54a-0106-448d-bc97-6753911c87fd)
 
@@ -28,3 +28,14 @@ After the simulation has been complete the newley reduced expression can be foun
 ![FithStep](https://github.com/user-attachments/assets/cced908e-b3db-438a-83c9-96bcb4661838)
 
 # Reading Inputs And Outputs
+Each RAM location represents a singular node as a 12 bit binary value. The 11th bit represents the inital state of the resolve flag, bits 10-8 represent the expression type bits 7-4 represnt the nodes child left pointer and bits 3-0 represent the nodes child right pointer. Expression Types have been encoded into 3 bits using the following key:
+
+1. 000: Undefined
+2. 001: Name
+3. 010: Application
+4. 011: Function
+5. 100: GoTo
+
+Finally the memory address of the 12 bit binary value in each RAM component represents the unique node ID of the node that should contain these values. Note the first node in any tree must be stored in the root node (Node with Unique Node ID == 0) and you will be unable to edit or read from nodes disconnected from the tree structure.
+
+As an example if we want our tree to be a single name expression in node 0 with Child Left and Right equal to F (15) our RAM component should contain the 12 bit binary value 1FF in memory location 0.
