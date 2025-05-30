@@ -44,4 +44,9 @@ The example execution stored in ExampleExecution.txt represents the tree detaile
 
 ![Initial Graph](https://github.com/user-attachments/assets/f2c699fb-3771-4557-b9e8-3d307fa112dd)
 
+When the simulation has finished you can convert the Rightmost RAM back into a tree diagram to find the result. Note that all these nodes will have a raised resolve flag meaning the 11th most bit will be a raised. So in the previous example with the single node graph, node 0 was a name and was instantiated with the line 1FF. the output RAM address 0 will contain 9FF due to the raised reslove flag.
+
+![Final Graph](https://github.com/user-attachments/assets/a8396cf0-57b4-464f-9f7f-62659d74df48)
+
+
 
