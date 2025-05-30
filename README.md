@@ -40,7 +40,8 @@ Finally the memory address of the 12 bit binary value in each RAM component repr
 
 As an example if we want our tree to be a single name expression in node 0 with Child Left and Right equal to F (15) our RAM component should contain the 12 bit binary value 1FF in memory location 0.
 
-The example execution stored in ExampleExecution.txt represents the tree detailed in the PACT sumbission paper sharing this Github's name. 
+The example execution stored in ExampleExecution.txt represents the tree detailed in the PACT sumbission paper sharing this Github's name. A good way to visualise the tree structure is to create a spreadsheet of node ID's expression types and child pointers and use that to construct a tree diagram.
 
 ![Initial Graph](https://github.com/user-attachments/assets/f2c699fb-3771-4557-b9e8-3d307fa112dd)
+
 
