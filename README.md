@@ -49,5 +49,6 @@ When the simulation has finished you can convert the rightmost RAM back into a t
 Again here is the output of example execution again mimicing the tree detailed in the PACT submission paper
 ![Final Graph](https://github.com/user-attachments/assets/a8396cf0-57b4-464f-9f7f-62659d74df48)
 
+# Reading Node Internal Values
 
 
