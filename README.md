@@ -10,3 +10,8 @@ This README document will show the steps required to simulate and example execut
 First open logisim-evolution.jar. In the top left of the application select File --> Open and find and select the LambdaCalculus.circ file downloaded from this github
 
 ![First Step](https://github.com/user-attachments/assets/e63e638c-a126-49e2-aef9-630e8d2472aa)
+
+# Lambda Calculus
+Once in Logisim select 
+
+![SecondStep](https://github.com/user-attachments/assets/2b2a1fd8-a902-4dd3-a0b6-fdc3e25337c9)
