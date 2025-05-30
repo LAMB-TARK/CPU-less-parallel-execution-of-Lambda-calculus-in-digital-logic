@@ -17,3 +17,5 @@ Once you have opened LambdaCalculus.circ select the left most RAM component high
 ![SecondStep](https://github.com/user-attachments/assets/2b2a1fd8-a902-4dd3-a0b6-fdc3e25337c9)
 
 In the Hex Editor select Open and open ExampleExecution.txt 
+
+![image](https://github.com/user-attachments/assets/0e7f89f0-445f-4b3d-a8f8-3ac840b4f141)
