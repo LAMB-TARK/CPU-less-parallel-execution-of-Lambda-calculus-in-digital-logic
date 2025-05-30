@@ -7,6 +7,6 @@ his repository contains a demonstrational implementation of CPU-less parralel ex
 
 This README document will show the steps required to simulate and example execution and read it's output.
 # Logisim
-First open logisim-evolution.jar and in the top left of the application select File --> Open 
+First open logisim-evolution.jar. In the top left of the application select File --> Open and find and select the LambdaCalculus.circ file downloaded from this github
 
 ![First Step](https://github.com/user-attachments/assets/e63e638c-a126-49e2-aef9-630e8d2472aa)
