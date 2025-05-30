@@ -6,4 +6,5 @@ his repository contains a demonstrational implementation of CPU-less parralel ex
 3. ExampleExecution.txt
 
 This README document will show the steps required to simulate and example execution and read it's output.
-
+# Logisim
+First open logisim-evolution.jar and in the top left of the application select File --> Open 
