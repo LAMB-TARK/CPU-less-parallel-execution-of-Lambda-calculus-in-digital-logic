@@ -12,6 +12,6 @@ First open logisim-evolution.jar. In the top left of the application select File
 ![First Step](https://github.com/user-attachments/assets/e63e638c-a126-49e2-aef9-630e8d2472aa)
 
 # Lambda Calculus
-Once in Logisim select 
+Once you have opened LambdaCalculus.circ select the left most RAM component highlighted in red. Then in the component properties menu select contents (click to edit) to open the contents of the Hex Editor.
 
 ![SecondStep](https://github.com/user-attachments/assets/2b2a1fd8-a902-4dd3-a0b6-fdc3e25337c9)
