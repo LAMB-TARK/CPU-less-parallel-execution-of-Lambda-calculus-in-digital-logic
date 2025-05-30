@@ -6,7 +6,7 @@ his repository contains a demonstrational implementation of CPU-less parralel ex
 3. ExampleExecution.txt
 
 This README document will show the steps required to simulate and example execution and read it's output.
-# How to load and execute
+# How To Load And Execute
 First open logisim-evolution.jar. In the top left of the application select File --> Open and find and select the LambdaCalculus.circ file downloaded from this github
 
 ![First Step](https://github.com/user-attachments/assets/e63e638c-a126-49e2-aef9-630e8d2472aa)
@@ -26,3 +26,5 @@ Finally select Simulate and ensure Simulation Enable is ticked. Then either begi
 After the simulation has been complete the newley reduced expression can be found in the rightmost RAM component.
 
 ![FithStep](https://github.com/user-attachments/assets/cced908e-b3db-438a-83c9-96bcb4661838)
+
+# Reading Inputs And Outputs
