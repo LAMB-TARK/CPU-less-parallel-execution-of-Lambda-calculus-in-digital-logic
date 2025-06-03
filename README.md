@@ -50,6 +50,6 @@ Again here is the output of example execution again mimicing the tree detailed i
 ![Final Graph](https://github.com/user-attachments/assets/a8396cf0-57b4-464f-9f7f-62659d74df48)
 
 # Reading Node Internal Values
-Certain LED's, Output Wires and Mmemory Components have been included to allow you to see the graph changin during execution. Each node outputs to a 1 bit LED which displace the statue of it's resolve flag, a 3 bit output wire which displays it's current expression type using the prior stated key and the contents of it's RAM component all highlighted in the image below.
+Certain LED's, Output Wires and Memory Components have been included to allow you to see the graph changing during execution. Each node outputs to a 1 bit LED which displace the statue of its resolve flag, a 3 bit output wire which displays its current expression type using the prior stated key and the contents of its RAM component all highlighted in the image below.
 
 ![LEDArrangment](https://github.com/user-attachments/assets/88f07a4a-fa4c-44a6-a2b0-ecde71207ace)
