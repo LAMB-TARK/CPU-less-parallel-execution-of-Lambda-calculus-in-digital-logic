@@ -7,7 +7,7 @@ This repository contains a demonstrational implementation of CPU-less parralel e
 
 This README document will show the steps required to simulate an example execution and read it's output.
 
-For a video demonstration of how to load, execute and read an example execution click the link below.
+For a video demonstration of how to load, execute and read an example execution click this link.
 https://youtu.be/s3cJ1NrnWbM
 
 # How To Load And Execute
