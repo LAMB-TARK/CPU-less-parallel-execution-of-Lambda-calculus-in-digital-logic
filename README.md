@@ -2,16 +2,16 @@
 This repository contains a demonstrational implementation of CPU-less parralel execution of lambda calulcus in digital logic consisting of 3 files.
 
 1. logisim-evolution.jar 
-2. LambdaCalculus.circ
+2. LambdaCalculusV1.circ
 3. ExampleExecution.txt
 
-This README document will show the steps required to simulate an example execution and read it's output.
+This README document will show the steps required to simulate an example execution and read it's output. Note a fourth LambdaCalculusV2.circ file exsists, certain lambda expressions will require its more advanced "NewNodeTracker" componenet to properly reduce, Howver it can be more intesive to simulate and is not required to execute the example execution provided.
 
 For a video demonstration of how to load, execute and read an example execution click this link.
 [https://youtu.be/ch1fyDx1kn0]
 
 # How To Load And Execute
-First open logisim-evolution.jar. In the top left of the application select File --> Open and find and select the LambdaCalculus.circ file downloaded from this github
+First open logisim-evolution.jar. In the top left of the application select File --> Open and find and select the LambdaCalculusV1.circ file downloaded from this github. 
 
 ![First Step](https://github.com/user-attachments/assets/e63e638c-a126-49e2-aef9-630e8d2472aa)
 
