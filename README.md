@@ -8,7 +8,7 @@ This repository contains a demonstrational implementation of CPU-less parralel e
 This README document will show the steps required to simulate an example execution and read it's output. Note a fourth LambdaCalculusV2.circ file exsists, certain lambda expressions will require its more advanced "NewNodeTracker" componenet to properly reduce, Howver it can be more intesive to simulate and is not required to execute the example execution provided.
 
 For a video demonstration of how to load, execute and read an example execution click this link.
-[(https://www.youtube.com/watch?v=KsCd8wUKb8E)]
+[(https://www.youtube.com/watch?v=ch1fyDx1kn0)]
 
 # How To Load And Execute
 First open logisim-evolution.jar. In the top left of the application select File --> Open and find and select the LambdaCalculusV1.circ file downloaded from this github. 
