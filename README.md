@@ -5,7 +5,7 @@ This repository contains a demonstrational implementation of CPU-less parralel e
 2. LambdaCalculusV1.circ
 3. ExampleExecution.txt
 
-This README document will show the steps required to simulate an example execution and read it's output. Note a fourth LambdaCalculusV2.circ file exsists, certain lambda expressions will require its more advanced "NewNodeTracker" componenet to properly reduce, Howver it can be more intesive to simulate and is not required to execute the example execution provided.
+This README document will show the steps required to simulate an example execution and read it's output. Note a fourth LambdaCalculusV2.circ file exsists, certain lambda expressions will require its more advanced "NewNodeTracker" componenet to properly reduce, However it can be more intesive to simulate and is not required to execute the example execution provided.
 
 For a video demonstration of how to load, execute and read an example execution click this link.
 [(https://www.youtube.com/watch?v=ch1fyDx1kn0)]
